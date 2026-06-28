@@ -1,6 +1,10 @@
 python-telegram-bot
-pycryptodome pycryptodomex
-requests pillow telebot pyTelegramBotAPI
+pycryptodome
+pycryptodomex
+requests
+pillow
+pyTelegramBotAPI
 aiogram
 pyrogram
 telethon
+tgcrypto
